@@ -1,5 +1,6 @@
 # course-registration-system
 ![App Screenshot](TheBowCourseRegistration.png)
+
 A full-stack course registration system built using React, Node.js, and SQL as part of a team project at Bow Valley College.
 
 ## My Contributions
